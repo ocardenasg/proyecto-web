@@ -1,0 +1,26 @@
+{
+  "editor.tabSize": 2,
+  "editor.autoIndent": "full",
+  "editor.wordWrapColumn": 80,
+  "editor.formatOnSave": true,
+  "editor.fontWeight": "normal",
+  "editor.formatOnPaste": true,
+  "editor.wrappingIndent": "none",
+  "editor.cursorBlinking": "solid",
+  "editor.detectIndentation": true,
+  "editor.renderLineHighlight": "all",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.rulers": [
+    80
+  ],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.openEditors.visible": 0,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.enableSmartCommit": true,
+}
